@@ -1,0 +1,16 @@
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\bin\Debug\net8.0\Salyar.Application.deps.json
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\bin\Debug\net8.0\Salyar.Application.dll
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\bin\Debug\net8.0\Salyar.Application.pdb
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\bin\Debug\net8.0\Salyar.Domain.dll
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\bin\Debug\net8.0\Salyar.Domain.pdb
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\Salyar.Application.csproj.AssemblyReference.cache
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\Salyar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\Salyar.Application.AssemblyInfoInputs.cache
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\Salyar.Application.AssemblyInfo.cs
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\Salyar.Application.csproj.CoreCompileInputs.cache
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\Salyar.Application.sourcelink.json
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\Salyar.A.64405DC1.Up2Date
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\Salyar.Application.dll
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\refint\Salyar.Application.dll
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\Salyar.Application.pdb
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Application\obj\Debug\net8.0\ref\Salyar.Application.dll

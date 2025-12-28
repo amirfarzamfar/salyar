@@ -1,0 +1,12 @@
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\bin\Debug\net8.0\Salyar.Domain.deps.json
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\bin\Debug\net8.0\Salyar.Domain.dll
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\bin\Debug\net8.0\Salyar.Domain.pdb
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\obj\Debug\net8.0\Salyar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\obj\Debug\net8.0\Salyar.Domain.AssemblyInfoInputs.cache
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\obj\Debug\net8.0\Salyar.Domain.AssemblyInfo.cs
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\obj\Debug\net8.0\Salyar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\obj\Debug\net8.0\Salyar.Domain.sourcelink.json
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\obj\Debug\net8.0\Salyar.Domain.dll
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\obj\Debug\net8.0\refint\Salyar.Domain.dll
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\obj\Debug\net8.0\Salyar.Domain.pdb
+C:\Users\amirFarzam\Desktop\سالمندیار\salyar\backend\src\Salyar.Domain\obj\Debug\net8.0\ref\Salyar.Domain.dll
