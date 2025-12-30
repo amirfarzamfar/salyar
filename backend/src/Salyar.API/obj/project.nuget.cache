@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EiBduSFeNuw=",
+  "dgSpecHash": "EvGXnBrHBJ8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\amirFarzam\\Desktop\\سالمندیار\\salyar\\backend\\src\\Salyar.API\\Salyar.API.csproj",
+  "projectFilePath": "C:\\Users\\amirFarzam\\Desktop\\سالمندیار\\salyar\\backend\\src\\salyar.api\\Salyar.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amirFarzam\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\amirFarzam\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

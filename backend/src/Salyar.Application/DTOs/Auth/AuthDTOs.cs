@@ -18,12 +18,14 @@ public class RegisterRequest
 
     [Required]
     public string Role { get; set; } = string.Empty; // Must be one of UserRoles
+
+    public string? Email { get; set; }
 }
 
 public class LoginRequest
 {
     [Required]
-    public string PhoneNumber { get; set; } = string.Empty;
+    public string Identifier { get; set; } = string.Empty;
 
     [Required]
     public string Password { get; set; } = string.Empty;

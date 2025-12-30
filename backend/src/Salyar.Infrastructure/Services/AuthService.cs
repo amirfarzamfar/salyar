@@ -50,7 +50,7 @@ public class AuthService : IAuthService
         var user = new ApplicationUser
         {
             UserName = request.PhoneNumber, // Using Phone as Username
-            Email = $"{request.PhoneNumber}@salyar.local", // Dummy email for Identity requirement
+            Email = !string.IsNullOrEmpty(request.Email) ? request.Email : $"{request.PhoneNumber}@salyar.local",
             FirstName = request.FirstName,
             LastName = request.LastName,
             PhoneNumber = request.PhoneNumber,
@@ -83,7 +83,17 @@ public class AuthService : IAuthService
 
     public async Task<AuthResponse> LoginAsync(LoginRequest request)
     {
-        var user = await _userManager.FindByNameAsync(request.PhoneNumber);
+        ApplicationUser? user;
+        
+        if (request.Identifier.Contains("@"))
+        {
+            user = await _userManager.FindByEmailAsync(request.Identifier);
+        }
+        else
+        {
+            user = await _userManager.FindByNameAsync(request.Identifier);
+        }
+
         if (user == null)
         {
             throw new Exception("Invalid credentials.");
