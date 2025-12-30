@@ -8,6 +8,7 @@ public static class UserRoles
     public const string AssistantNurse = "AssistantNurse"; // کمک پرستار
     public const string ElderlyCompanion = "ElderlyCompanion"; // سالمندیار
     public const string MotherHelper = "MotherHelper"; // مادریار
+    public const string ChildMinder = "ChildMinder"; // کودک یار
     public const string Patient = "Patient"; // بیمار
     public const string Elderly = "Elderly"; // سالمند
     public const string Family = "Family"; // خانواده سالمند
@@ -15,6 +16,6 @@ public static class UserRoles
     public static readonly IReadOnlyList<string> All = new[]
     {
         Admin, Supervisor, Nurse, AssistantNurse, ElderlyCompanion, 
-        MotherHelper, Patient, Elderly, Family
+        MotherHelper, ChildMinder, Patient, Elderly, Family
     };
 }
